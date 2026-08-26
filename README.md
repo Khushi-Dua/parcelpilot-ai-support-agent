@@ -314,17 +314,9 @@ A roughly 5-minute demonstration covers:
 
 ## AI Tool Usage
 
-AI coding assistance was used to:
+GitHub Copilot was used selectively for minor coding assistance and debugging during development.
 
-* scaffold and refine the Streamlit application
-* develop and refine tool orchestration
-* implement policy and source-precedence logic
-* improve access-control and retrieval scoping
-* implement unsupported-exception escalation
-* review requirement coverage
-* refine documentation
-
-All final implementation decisions and verification were reviewed against the supplied assessment requirements and dataset.
+All final implementation decisions and testing were performed against the supplied assessment requirements and dataset.
 
 ## Assessment Deliverables
 
