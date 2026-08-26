@@ -310,7 +310,7 @@ A roughly 5-minute demonstration covers:
 6. Confirmation-gated state-changing action
 7. Key technical and product decisions
 
-**Demo video:** *Add final video link here after recording.*
+**Demo video:** [https://drive.google.com/file/d/1E-QN_UgGG0EsziseZ5cCflF8ZjrgOzvc/view?usp=sharing](https://drive.google.com/file/d/1E-QN_UgGG0EsziseZ5cCflF8ZjrgOzvc/view?usp=sharing)
 
 ## AI Tool Usage
 
@@ -322,7 +322,7 @@ All final implementation decisions and testing were performed against the suppli
 
 * **Repository:** https://github.com/Khushi-Dua/parcelpilot-ai-support-agent
 * **Hosted application:** https://parcelpilot-ai-support-agent-khushi-dua.streamlit.app/
-* **Demo video:** *Add final video link here*
+* **Demo video:** [https://drive.google.com/file/d/1E-QN_UgGG0EsziseZ5cCflF8ZjrgOzvc/view?usp=sharing](https://drive.google.com/file/d/1E-QN_UgGG0EsziseZ5cCflF8ZjrgOzvc/view?usp=sharing)
 * **Architecture note:** Included in this README
 * **Product note:** Included in this README
 * **AI tool usage:** Included in this README
